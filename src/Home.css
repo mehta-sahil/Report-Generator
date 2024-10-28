@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/b/blue-mint-vintage-typewriter-portable-retro-paper-hand-dra-drawn-vector-art-illustration-99838379.jpg");
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover; /* Ensures the image covers the entire screen */
+  /* background-position: center center; Centers the image */
+  /* background-attachment: fixed; Keeps the image fixed on scroll */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* margin: 0; */
+  /* padding: 0; */
+}
