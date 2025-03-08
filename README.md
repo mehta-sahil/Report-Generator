@@ -1,4 +1,4 @@
-# AI Buddy- Report Generation Website
+# Report Buddy- Report Generation Website
 
 ## 📌 Overview
 This project is a report generation website that systematically creates reports on any topic provided by the user. It leverages the Gemini API to generate detailed and structured reports. Users can enter a topic, and the system will fetch and format relevant information into a downloadable document.
