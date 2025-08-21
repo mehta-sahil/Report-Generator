@@ -69,9 +69,6 @@ npm start
   - flask
   - flask-cors
 
-## 🐜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ## 👫 Contact Us
 For any queries, reach out to us on:
