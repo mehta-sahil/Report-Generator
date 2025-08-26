@@ -1,16 +1,16 @@
 # Report Buddy- Report Generation Website
 
-## 📌 Overview
+##  Overview
 This project is a report generation website that systematically creates reports on any topic provided by the user. It leverages the Gemini API to generate detailed and structured reports. Users can enter a topic, and the system will fetch and format relevant information into a downloadable document.
 
-## 🔥 Features
+## Features
 - *Automated Report Generation:* Generates well-structured reports on user-provided topics.
 - *Gemini API Integration:* Uses Google's Generative AI to fetch and summarize content.
 - *Formatted Document Output:* Creates professional reports using the DOCX format.
 - *Web Scraping for Additional Content:* Extracts relevant data from online sources.
 - *Tech Stack:* React (frontend) and Flask (backend).
 
-  ## 🖼 Screenshots
+  ## Screenshots
 > <img width="1280" alt="{AEC9C946-0CA1-4B79-893A-531A8EC5FE80}" src="https://github.com/user-attachments/assets/6704c93e-402a-44c2-9230-aa86914fd198" />
 
 >Home page
@@ -25,7 +25,7 @@ This project is a report generation website that systematically creates reports 
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### *1. Clone the Repository*
 bash
